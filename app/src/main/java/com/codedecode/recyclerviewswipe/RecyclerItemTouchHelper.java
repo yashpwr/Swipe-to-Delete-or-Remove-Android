@@ -2,7 +2,6 @@ package com.codedecode.recyclerviewswipe;
 
 import android.graphics.Canvas;
 import android.view.View;
-
 import androidx.recyclerview.widget.ItemTouchHelper;
 import androidx.recyclerview.widget.RecyclerView;
 
